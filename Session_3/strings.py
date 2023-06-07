@@ -24,8 +24,17 @@ name = "Aditi"
 
 # String Functions
 
-story  = "Aditi is having a device is"
-print(len(story))
-print(story.endswith("having"))
-print(story.count("is"))
+# story  = "aditi is having a device is"
+# print(len(story))
+# print(story.endswith("having"))
+# print(story.count("is"))
+# print(story.capitalize())
+# print(story.find("is"))
+# print(story.replace("device" , "Laptop"))
+
+
+# # Escaping Sequence
+# story1  = "Aditi is having a device.\nThat is working fine."
+# print(story1)
+
 
