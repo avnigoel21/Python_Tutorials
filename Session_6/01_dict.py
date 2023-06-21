@@ -27,7 +27,7 @@
 
 # print(list(myDict.keys())) # prints the keys of the dictionary
 # print(myDict.values()) # prints thevalues of the dictionary
-# print(myDict.items()) # rints the key , value for all the contents of the dict
+# print(myDict.items()) # prints the key , value for all the contents of the dict
 
 # updateDict = {
 #     "Science"  : "Subject" , 
