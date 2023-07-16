@@ -6,7 +6,7 @@
 # Memory is allocated only after object instantiation
 
 # blank form(class)  => fill by user => Application(object)
-# class - variables & methods/functions
+# class - variables/attributes/properties & methods/functions
 
 
 
@@ -43,7 +43,7 @@ class Number:
 num = Number() # object instantiation
 num.a = 12
 num.b = 34
-s = num.sum()
+s = num.sum() 
 print(s)
 
 
