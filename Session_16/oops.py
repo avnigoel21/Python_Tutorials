@@ -13,7 +13,7 @@
 # Principles of OOPS
 # 1) Abstraction  - our work is done without revealing the implementation details to the user
 # 2) Encapsulation - binding 
-
+# 3) Inheritance
 
 
 # Modelling a program in OOPS
